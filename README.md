@@ -1,4 +1,10 @@
 ### Hi there 👋
+### My name is Mohammed Ashraf
+- 🔭 I’m currently working on "<b>What's in my fridge?</b>" flutter app
+- 🌱 I’m currently learning Flutter, Data Science
+- 📫 How to reach me: [Gmail](mhamedashraf54@gmail.com), [LinkedIn](https://www.linkedin.com/in/mhamedashraf54/)
+
+##### still working on this readme XD
 
 <!--
 **MhamedAshrf/MhamedAshrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
